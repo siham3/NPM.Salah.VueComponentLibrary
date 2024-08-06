@@ -1,0 +1,35 @@
+// Vitest Snapshot v1
+
+exports[`third-party-promotion default variant > matches snapshot 1`] = `
+<div
+  class="third-party-promotion"
+  data-v-2c558045=""
+>
+  <div
+    class="icon"
+    data-v-2c558045=""
+  >
+    <img
+      data-v-2c558045=""
+      src="/images/iconurl.svg"
+    />
+  </div>
+  <sequiter-markdown-stub
+    class="content"
+    content="My Content"
+    data-v-2c558045=""
+  />
+  <div
+    class="button-bar"
+    data-v-2c558045=""
+  >
+    <sequiter-button-stub
+      data-v-2c558045=""
+      disabled="false"
+      larger="false"
+      type="button"
+      variant="primary"
+    />
+  </div>
+</div>
+`;
